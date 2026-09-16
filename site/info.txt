@@ -1,0 +1,20 @@
+info utile pour le développement du site
+
+Objectif:
+    -rentrer des prix -> formulaire
+    -consulter l'argent gagné
+    -plannifier des courses
+    -consulter la qualité d'un produit
+    -rapporter une mauvaise contribution -> formulaire
+    -modifier son adresse -> formulaire
+    -modifier son moyen de transport -> formulaire
+
+    -interface utilisateur claire -> bootstrap
+    -navigation rapide et intuitive
+    -UI responsive -> bootstrap
+    -mode nuit/jour -> bootstrap si pas connecter prend l'info sur le navigateur sinon dans les paramètres du compte
+
+3 parties différentes:
+-visiteur lambda
+-utilisateur connecté
+-admin
